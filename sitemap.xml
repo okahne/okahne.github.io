@@ -4,7 +4,6 @@
   
   <url>
     <loc>https://ottokahne.se/categories/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -13,7 +12,6 @@
   
   <url>
     <loc>https://ottokahne.se/tags/</loc>
-    <priority>0</priority>
   </url>
   
 </urlset>
